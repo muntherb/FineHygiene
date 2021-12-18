@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "auth-service\\**/node_modules": true,
+    "auth-service\\**/node_modules.*": true,
+    "auth-service\\node_modules": true,
+    "order-service\\node_modules": true,
+    "product-service\\node_modules": true,
+    "UML DIAGRAM.png": true
+  }
+}
